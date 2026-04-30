@@ -1,3 +1,29 @@
+
+## Team
+- Frontend Developer: Rishav Saha
+- UI/UX Designer: [Designer Name]
+
+## Collaboration Workflow
+- Developed features using separate Git branches (feature/login-ui, feature/dashboard-ui)
+- Created and merged Pull Requests for each feature
+- Implemented UI based on Figma designs and incorporated feedback revisions
+- Maintained clean commit history following industry standards
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
