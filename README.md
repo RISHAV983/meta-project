@@ -5,9 +5,9 @@
 
 ## Collaboration Workflow
 - Developed features using separate Git branches (feature/login-ui, feature/dashboard-ui)
-- Created and merged Pull Requests for each feature
+- Created Pull Requests for each feature and merged them after implementation
 - Implemented UI based on Figma designs and incorporated feedback revisions
-- Maintained clean commit history following industry standards
+- Maintained a clean and structured commit history using standard commit practises
 
 
 
